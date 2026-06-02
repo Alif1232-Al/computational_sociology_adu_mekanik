@@ -1,14 +1,22 @@
-# computational_sociology_adu_mekanik
-
 # 📊 Computational Sociology: Class Resentment & Digital Polarization
 ### *Analyzing the "Adu Mekanik" Phenomenon Among Indonesian Youth*
+
+---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn">
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
+</p>
 
 ---
 
 ## 📌 1. Project Context & Overview
 Proyek ini adalah sebuah **Computational Sociology Framework** yang dirancang untuk mensimulasikan dan menganalisis fenomena gesekan digital (populer dengan istilah **"Adu Mekanik"**) di kalangan generasi muda Indonesia di media sosial seperti TikTok dan X (Twitter).
 
-Analis ini didasarkan pada metode **Netnographic Observation (Social Media Listening)** terhadap narasi konflik antara kelompok kerja lapangan (lulusan SMA/SMK) dengan kelompok akademisi (Anak Kuliahan). Proyek ini memetakan bagaimana tekanan makroekonomi—seperti tingginya angka pengangguran sarjana, stagnasi gaji lulusan baru di level UMR, serta glorifikasi semu jalur finansial berisiko tinggi (*Trader FOMO* / *Crypto* / *Forex* tanpa ilmu)—memicu kecemburuan kelas dan agresi verbal di ruang digital.
+Analisis ini didasarkan pada metode **Netnographic Observation (Social Media Listening)** terhadap narasi konflik antara kelompok kerja lapangan (lulusan SMA/SMK) dengan kelompok akademisi (Anak Kuliahan). Proyek ini memetakan bagaimana tekanan makroekonomi—seperti tingginya angka pengangguran sarjana, stagnasi gaji lulusan baru di level UMR, serta glorifikasi semu jalur finansial berisiko tinggi (*Trader FOMO* / *Crypto* / *Forex* tanpa ilmu)—memicu kecemburuan kelas dan agresi verbal di ruang digital.
 
 ---
 
@@ -37,19 +45,17 @@ Proyek ini dibagi menjadi beberapa tahapan analitik tingkat lanjut:
 Proyek ini dapat dijalankan dengan dua cara: menggunakan **Google Colab (Sangat Direkomendasikan)** agar tidak perlu instalasi lokal, atau dijalankan secara manual di komputer Anda.
 
 ### 🎯 Cara 1: Jalankan Otomatis lewat Google Colab (Paling Praktis)
-Anda tidak perlu menginstal Python atau pustaka apa pun di komputer Anda. Cukup klik tombol resmi di bawah ini untuk membuka, melihat, dan mengeksekusi seluruh baris kode, analisis NLP, serta grafik simulasi Monte Carlo secara langsung di browser Anda:
+Anda tidak perlu menginstal Python atau pustaka apa pun di komputer Anda. Cukup klik tombol resmi di bawah ini untuk membuka, melihat, dan mengeksekusi seluruh baris kode, analisis NLP, serta grafik simulasi Monte Carlo secara langsung di browser Anda melalui Google Drive proyek ini:
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/computational-sociology-adu-mekanik/blob/main/computational_sociology_adu_mekanik.ipynb)
-
-*(⚠️ **Catatan:** Jangan lupa ganti `YOUR_USERNAME` pada tautan di atas dengan username GitHub Anda setelah Anda membuat repository ini!)*
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1_7wmxPhvlHTBTnvkjnTkcR-9jwFm4R4h)
 
 ---
 
 ### 💻 Cara 2: Jalankan Secara Lokal (Local Environment)
-Jika Anda ingin mengembangkan atau memodifikasi kode ini di teks editor lokal Anda (seperti VS Code atau Jupyter Notebook lokal), ikuti langkah-langkah berikut:
+Jika Anda ingin mengembangkan atau memodifikasi kode ini di teks editor lokal Anda (seperti VS Code atau Jupyter Notebook lokal), silakan ikuti langkah-langkah berikut:
 
 #### 1. Clone Repository Ini
 Buka terminal / command prompt Anda, lalu jalankan perintah berikut:
 ```bash
-git clone [https://github.com/YOUR_USERNAME/computational-sociology-adu-mekanik.git](https://github.com/YOUR_USERNAME/computational-sociology-adu-mekanik.git)
-cd computational-sociology-adu-mekanik
+git clone [https://github.com/Alif1232-Al/computational_sociology_adu_mekanik.git](https://github.com/Alif1232-Al/computational_sociology_adu_mekanik.git)
+cd computational_sociology_adu_mekanik
